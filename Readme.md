@@ -6,7 +6,7 @@ Computer Security Lab Experiments
 * Assignment - File Logger
 
 ## Getting Started
-* Experiment contain the document giving detail info about the network related commands.
+* Networking commands experiment contain the document giving detail info.
 * Product cipher requires python interpreter, Caeser cipher technique is combined with columnar transposition cipher.
 
 ### Assignments.
