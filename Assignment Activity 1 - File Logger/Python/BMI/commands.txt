@@ -1,0 +1,5 @@
+converting ui to py
+pyuic5 -x filename.ui -o filename.py
+
+converting py to exe
+pyinstaller --onedir --onefile --name='' --windowed "pathname"
